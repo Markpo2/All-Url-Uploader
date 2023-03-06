@@ -37,14 +37,14 @@ class Config(object):
     CHUNK_SIZE = 128
     TG_MAX_FILE_SIZE = 4194304000
     HTTP_PROXY = ""
-    PROCESS_MAX_TIMEOUT = 3700
+    PROCESS_MAX_TIMEOUT = 0
 
     # TG Ids
-    LOG_CHANNEL = -1007119867241
-    OWNER_ID = 1288398723
+    LOG_CHANNEL = -1001465954010
+    OWNER_ID = 1284818583
 
     # bot username without @
-    BOT_USERNAME = "AdvanceUrlUploaderBot"
+    BOT_USERNAME = "uploaderMar_bot"
 
     # auth users
-    AUTH_USERS = [OWNER_ID]
+    AUTH_USERS = [1284818583]
